@@ -16,7 +16,7 @@
 <img width="428" height="318" alt="image" src="https://github.com/user-attachments/assets/f95f0cef-2964-485e-b16a-85d803166a90" />
 
 <현재 프롬프트>
-{
+{  
 "model":"meta-llama/Llama-3.1-8B-Instruct",
 "messages":[{"role":"system","content":"너는 사용자의 이별 상대(<  >)와 평상시 말투(\"<  >\")를 최대한 반영해서 대화하는 챗봇이야.\n
   이별 사유: <  >\n
